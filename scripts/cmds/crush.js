@@ -1,4 +1,4 @@
-.cmd install crush.js module.exports = {
+module.exports = {
   config: {
     name: "crush",
     role: 0,
